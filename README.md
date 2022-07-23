@@ -1,9 +1,5 @@
 # Hola, soy Marce 👋
 
-<picture>
- <img src="https://www.marceloag.cl/images/marceloag_.gif" width="200" align="center">
-</picture>
- 
 - 👨🏻‍🏫 I’m currently working as CEO in [Croop](https://www.croop.cl). College Professor in [Inacap](http://www.inacap.cl) & [UMAG](http://www.umag.cl)
 - 🐸 I'm cofounder of [Croop](https://www.croop.cl), [Iceberg](http://www.iceberg) & [Nomadesk](http://www.nomadesk.cl) (the last two, sadly failed)
 - 🤔 I’m currently learning Tailwind, NextJs & React Native
@@ -15,6 +11,13 @@
 - Business Admnistration Software
 - Innovation & Entrepreneurship
 - Digital Marketing
+
+## 🔗 You can find me in:
+- [My personal Website](http://www.marceloag.cl)
+- <img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" width="16">[Instagram](http://www.instagram.com/marceloag)
+- [LinkedIn](https://www.linkedin.com/in/marceloag/)
+- <marceloag@croop.cl>
+
 
 ## 👨🏻‍🏫 What degree do i have?
 
