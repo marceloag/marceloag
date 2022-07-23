@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hola, soy Marce 👋
 
-<!--
-**marceloag/marceloag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍🏫 I’m currently working as Design Leader in [Croop](https://www.croop.cl). College Professor in [Inacap](http://www.inacap.cl) & [UMAG](http://www.umag.cl)
+- 🐸 I'm cofounder of [Croop](https://www.croop.cl), [Iceberg](http://www.iceberg) & [Nomadesk](http://www.nomadesk.cl) (the last two, sadly failed)
+- 🤔 I’m currently learning Tailwind, NextJs & React Native
 
-Here are some ideas to get you started:
+## 👨🏻‍🏫 What i teach?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programing 101 (a.k.a "Introduction to Programming")
+- Operating Systems
+- Business Admnistration Software
+- Innovation & Entrepreneurship
+- Digital Marketing
+
+## 👨🏻‍🏫 What degree do i have?
+
+- Computer Technician, currently studying Informatic & Multimedia Engineering
